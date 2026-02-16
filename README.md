@@ -24,7 +24,7 @@ I am a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼
 - Implementing **Authentication & backend integrations** using *Firebase*
 - Improving **problem-solving skills** through *Data Structures & Algorithms (DSA)*
 - Focusing on **API optimization & efficient database structuring*
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munna7487&label=Profile%20views&color=0e75b6&style=flat" alt="munna7487" /> </p>
 
