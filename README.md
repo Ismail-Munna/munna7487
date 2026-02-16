@@ -73,6 +73,10 @@ I am a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼
 </p>
 
 
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munna7487&show_icons=true&locale=en&layout=compact" alt="munna7487" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munna7487&show_icons=true&locale=en" alt="munna7487" /></p>
